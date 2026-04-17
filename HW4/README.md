@@ -121,6 +121,13 @@ Includes:
 - Visualization of generated images
 
 ---
+### 🔹 `model_weights.pkl`
+Trained model weights.
+
+- Saved after training
+- Used for generating images without retraining
+- Due to file size limitations, this file is not included in the repository
+- The weights can be provided separately (e.g., via Google Drive) if needed
 
 ### 🔹 `requirements.txt`
 Dependencies used in the project.
