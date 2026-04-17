@@ -27,5 +27,4 @@ This assignment focuses on sequence modeling and natural language processing usi
 ## Files
 - `HW2.ipynb` – full implementation and experiments
 - `HW2.pdf` – submitted version
-- `rnn_model.pt` – trained RNN model
-- `lstm_model.pt` – trained LSTM model
+
