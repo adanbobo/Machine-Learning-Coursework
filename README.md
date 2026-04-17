@@ -1,8 +1,8 @@
 #  Machine Learning Projects
 
-🎓 Technion – Information Systems Engineering  
-📚 Courses: Computational Learning, Machine Learning 2  
-📍 Focus: Deep Learning, NLP, Computer Vision, Generative AI  
+ Technion – Information Systems Engineering  
+Courses: Computational Learning, Machine Learning 2  
+Focus: Deep Learning, NLP, Computer Vision, Generative AI  
 
 ---
 
